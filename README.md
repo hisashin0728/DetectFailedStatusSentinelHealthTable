@@ -12,10 +12,16 @@ Import json file from Microsoft Sentinel
 Current Settings is follow:<p>
 <img width="271" alt="image" src="https://github.com/hisashin0728/DetectFailedStatusSentinelHealthTable/assets/55295601/998226a9-3a14-4fae-b363-4d4ddd030454">
 
-Alert Name:<BR>
-``{{SentinelResourceType}} failed about {{SentinelResourceName}}``
+Alert Name<BR>
+``{{SentinelResourceType}} failed about {{SentinelResourceName}}``<BR>
 Alert Desription:<BR>
-``{{Description}}, Reason code is {{Reason}}.``
+``{{Description}}, Reason code is {{Reason}}.``<BR>
+
+##Example
+Alert Name: ``Data connector`` failed about ``Office365-Exchange``<BR>
+Alert Description : 
+``Data fetch failed (Tenant does not exist in the O365 Management API.)``, Reason code is 
+``SC20011``.
 
 
 # Current Scheduled KQL Query
