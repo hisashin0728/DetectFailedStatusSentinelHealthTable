@@ -23,8 +23,7 @@ Current Settings is follow:<p>
 | Alert | Sample |
 | ---- | ---- |
 | Alert Name | ``Data connector`` failed about ``Office365-Exchange`` |
-| Alert Description | ``Data fetch failed (Tenant does not exist in the O365 Management API.)``, Reason code is 
-``SC20011``. |
+| Alert Description | ``Data fetch failed (Tenant does not exist in the O365 Management API.)``, Reason code is ``SC20011``. |
 
 
 # Current Scheduled KQL Query
