@@ -12,9 +12,9 @@ Import json file from Microsoft Sentinel
 Current Settings is follow:<p>
 <img width="271" alt="image" src="https://github.com/hisashin0728/DetectFailedStatusSentinelHealthTable/assets/55295601/998226a9-3a14-4fae-b363-4d4ddd030454">
 
-Alert Name:
+Alert Name:<BR>
 ``{{SentinelResourceType}} failed about {{SentinelResourceName}}``
-Alert Desription:
+Alert Desription:<BR>
 ``{{Description}}, Reason code is {{Reason}}.``
 
 
