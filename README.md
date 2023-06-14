@@ -18,7 +18,7 @@ Current Settings is follow:<p>
 |  Alert Desription  | ``{{Description}}, Reason code is {{Reason}}.`` |
 
 
-##Example
+## Example
 
 | Alert | Sample |
 | ---- | ---- |
