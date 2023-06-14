@@ -9,7 +9,7 @@ Import json file from Microsoft Sentinel
 <img width="940" alt="image" src="https://github.com/hisashin0728/DetectFailedStatusSentinelHealthTable/assets/55295601/b1e3e004-7c3c-47c8-9645-e3e2e53efcec">
 
 # Alerts
-Current configuration.
+Current Settings is follow:<p>
 <img width="271" alt="image" src="https://github.com/hisashin0728/DetectFailedStatusSentinelHealthTable/assets/55295601/998226a9-3a14-4fae-b363-4d4ddd030454">
 
 Alert Name:
