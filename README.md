@@ -11,3 +11,7 @@ SentinelHealth
 | where Status == "Failure"
 | project TimeGenerated, OperationName, Status, SentinelResourceId, SentinelResourceName, Description, Reason, SentinelResourceType, SentinelResourceKind
 ```
+
+<img width="686" alt="image" src="https://github.com/hisashin0728/DetectFailedStatusSentinelHealthTable/assets/55295601/5ae7dcd0-27c1-4d86-9176-9bb1a657d4ec">
+
+
